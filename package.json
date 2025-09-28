@@ -1,0 +1,21 @@
+{
+  "name": "monza-dark-theme",
+  "displayName": "monza dark",
+  "description": "monza dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monza dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monza-dark-theme.json"
+      }
+    ]
+  }
+}

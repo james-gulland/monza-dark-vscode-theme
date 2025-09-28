@@ -1,0 +1,8 @@
+--raisin-black: #1b1c22;
+--gunmetal: #2d313c;
+--paynes-gray: #616d8a;
+--powder-blue: #9fb2e5;
+--light-coral: #f07178;
+--peach: #ffcc99;
+--pale-azure: #88dbfd;
+--azure-web: #e4f4f4;

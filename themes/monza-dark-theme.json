@@ -1,5 +1,5 @@
 {
-    "name": "Red Blue Theme",
+    "name": "Monza Dark",
     "type": "dark",
     "colors": {
       "activityBar.background": "#2D313C",
@@ -264,7 +264,7 @@
       "gitDecoration.stageDeletedResourceForeground": "#F07178",
       "gitDecoration.stageModifiedResourceForeground": "#ffcc99",
       "gitDecoration.submoduleResourceForeground": "#9FB2E5",
-      "gitDecoration.untrackedResourceForeground": "#FFCC99",
+      "gitDecoration.untrackedResourceForeground": "#88dbfd",
       "icon.foreground": "#88DBFD",
       "inputOption.activeBackground": "#00000000",
       "inputOption.activeBorder": "#00000000",
@@ -452,7 +452,7 @@
       "welcomePage.progress.background": "#ffffff05",
       "welcomePage.progress.foreground": "#FFCC99",
       "welcomePage.tileBackground": "#1B1C22",
-      "welcomePage.tileHoverBackground": "#1B1C22",
+      "welcomePage.tileHoverBackground": "#1B1C22"
     },
     "tokenColors": [
       {
@@ -509,7 +509,7 @@
       {
         "scope": ["keyword.operator.new", "keyword.control.new", "storage.modifier.async"],
         "settings": {
-          "foreground": "#9FB2E5",
+          "foreground": "#9FB2E5"
         }
       },
       {
@@ -524,7 +524,7 @@
           "variable.language.this", "storage.modifier", "variable.language.super"
         ],
         "settings": {
-          "foreground": "#88DBFD",
+          "foreground": "#88DBFD"
         }
       },
       {
@@ -657,49 +657,49 @@
         "name": "Meta Block - Function Call/Entity Name Function",
         "scope": "meta.block meta.var.expr meta.function-call entity.name.function",
         "settings": {
-          "foreground": "#9FB2E5",
+          "foreground": "#9FB2E5"
         }
       },
       {
         "name": "Function Call/Entity Name Function",
         "scope": "source meta.function-call entity.name.function",
         "settings": {
-          "foreground": "#9FB2E5",
+          "foreground": "#9FB2E5"
         }
       },
       {
         "name": "Function/Class Name",
         "scope": "entity.name.function, meta.class entity.name.class, meta.class entity.name.type.class, meta.class meta.function-call variable.function, keyword.other.important, entity.other.attribute-name.id.css, entity.other.attribute-name.class.css",
         "settings": {
-          "foreground": "#E4F4F4",
+          "foreground": "#E4F4F4"
         }
       },
       {
         "name": "CSS purple",
         "scope": "support.type.property-name.css, support.type.property-name.media.css, meta.at-rule.media.header.css",
         "settings": {
-          "foreground": "#9FB2E5",
+          "foreground": "#9FB2E5"
         }
       },
       {
         "name": "CSS orange",
         "scope": "meta.at-rule.keyframes.body.css entity.other.keyframe-offset.percentage.css",
         "settings": {
-          "foreground": "#F07178",
+          "foreground": "#F07178"
         }
       },
       {
         "name": "CSS yellow",
         "scope": "punctuation.definition.entity.css, constant.numeric.css, support.constant.property-value.css, support.function.misc.css, keyword.control.at-rule, punctuation.definition.keyword.css, support.function, meta.property-value.css, meta.at-rule.keyframes.body.css",
         "settings": {
-          "foreground": "#ffcc99",
+          "foreground": "#ffcc99"
         }
       },
       {
         "name": "CSS white",
         "scope": "variable.css, variable.argument.css, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css",
         "settings": {
-          "foreground": "#E4F4F4",
+          "foreground": "#E4F4F4"
         }
       },
       {
@@ -711,7 +711,7 @@
       {
         "scope": ["support.other.variable", "string.other.link"],
         "settings": {
-          "foreground": "#88DBFD",
+          "foreground": "#88DBFD"
         }
       },
       {
@@ -732,7 +732,7 @@
           "text.html.derivative"
         ],
         "settings": {
-          "foreground": "#F07178",
+          "foreground": "#F07178"
         }
       },
       {
@@ -815,7 +815,7 @@
       {
         "scope": ["entity.other.attribute-name"],
         "settings": {
-          "foreground": "#9FB2E5",
+          "foreground": "#9FB2E5"
         }
       },
       {
@@ -1522,7 +1522,7 @@
         "foreground": "#9FB2E5",
         "fontStyle": "italic"
       }
-    },
+    }
     ]
   }
   

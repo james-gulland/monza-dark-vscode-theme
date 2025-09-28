@@ -1,7 +1,13 @@
 {
   "name": "monza-dark-theme",
-  "displayName": "monza dark",
-  "description": "monza dark theme",
+  "displayName": "Monza Dark",
+  "description": "Monza Dark is a minimal, high-octane VSCode theme that balances speed and focus. It fuses deep, modern tones with neon highlights, capturing the creativity of precision engineering.",
+  "publisher": "JamesGulland",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/james-gulland/monza-dark-vscode-theme"
+  },
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.104.0"
@@ -9,10 +15,24 @@
   "categories": [
     "Themes"
   ],
+   "keywords": [
+    "dark theme",
+    "monza theme",
+    "monza dark theme",
+    "monza vscode theme",
+    "minimal theme",
+    "modern theme",
+    "vscode theme",
+    "visual studio code theme",
+    "vscode dark theme",
+    "visual studio code dark theme",
+    "James Gulland",
+    "JamesGulland"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "monza dark",
+        "label": "Monza Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/monza-dark-theme.json"
       }
